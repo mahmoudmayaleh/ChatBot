@@ -1,4 +1,7 @@
 # ChatBot using Neural Networks
+
+--------------------------------------------------------  ![image](https://github.com/mahmoudmayaleh/ChatBot/assets/124529384/1bd0197d-7d18-43aa-b3a5-892619553dec) -----------------------------------------------------
+
 ## Overview
 This project implements a simple chatbot using neural networks, specifically a feedforward neural network trained on intents extracted from a JSON file. The chatbot can understand and respond to various user queries by classifying them into predefined categories.
 
