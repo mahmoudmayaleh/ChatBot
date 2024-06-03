@@ -19,7 +19,7 @@ nltk: Natural Language Toolkit for text processing.
 numpy: For numerical operations.
 
 ## Installation
-Clone the repository: git clone https://github.com/your_username/ChatBot.git
+Clone the repository: git clone https://github.com/mahmoudmayaleh/ChatBot.git
 Navigate to the project directory: cd ChatBot
 Install the required dependencies: pip install -r requirements.txt
 
